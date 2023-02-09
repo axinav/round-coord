@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/plugins/round_koord" >
+        <file>icon.png</file>
+    </qresource>
+</RCC>
